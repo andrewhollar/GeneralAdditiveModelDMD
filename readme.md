@@ -1,2 +1,2 @@
 Generalized Additive Model for DMD
-By Mateo Not Andrew
+By Andrew not Mateo
